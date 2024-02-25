@@ -1,3 +1,5 @@
 # New-Demo
 My First Git Repository.
-Author - Kamal nayani
+<br>
+Author - Kamal Nayani Rai
+Ready to Start
