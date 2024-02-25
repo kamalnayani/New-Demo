@@ -1,2 +1,3 @@
 # New-Demo
-My First Git project.
+My First Git Repository.
+Author - Kamal nayani
